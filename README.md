@@ -4,7 +4,6 @@ A pixel-perfect, responsive clone of the Amazon homepage built from scratch usin
 
 This project demonstrates strong foundational skills in layout design, CSS Flexbox/Grid, and replication of complex commercial user interfaces.
 
-![Amazon Clone Preview](https://via.placeholder.com/800x400.png?text=Amazon+Clone+Preview) <!-- Replace with your own screenshot if available! -->
 
 ## ✨ Features
 
